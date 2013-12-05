@@ -1,0 +1,12 @@
+c:\users\alzro\documents\visual studio 2012\Projects\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe.config
+c:\users\alzro\documents\visual studio 2012\Projects\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe
+c:\users\alzro\documents\visual studio 2012\Projects\DesktopApp\DesktopApp\bin\Debug\DesktopApp.pdb
+c:\users\alzro\documents\visual studio 2012\Projects\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Properties.Resources.resources
+c:\users\alzro\documents\visual studio 2012\Projects\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.GenerateResource.Cache
+c:\users\alzro\documents\visual studio 2012\Projects\DesktopApp\DesktopApp\obj\Debug\DesktopApp.exe
+c:\users\alzro\documents\visual studio 2012\Projects\DesktopApp\DesktopApp\obj\Debug\DesktopApp.pdb
+C:\Users\Alzro\Documents\Visual Studio 2012\Projects\DesktopApp\DesktopApp\obj\Debug\DesktopApp.HomeDesktop.resources
+C:\Users\Alzro\Documents\Visual Studio 2012\Projects\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Login.resources
+C:\Users\Alzro\Documents\Visual Studio 2012\Projects\DesktopApp\DesktopApp\bin\Debug\MySql.Data.dll
+C:\Users\Alzro\Documents\Visual Studio 2012\Projects\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Insert.resources
+C:\Users\Alzro\Documents\Visual Studio 2012\Projects\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csprojResolveAssemblyReference.cache
